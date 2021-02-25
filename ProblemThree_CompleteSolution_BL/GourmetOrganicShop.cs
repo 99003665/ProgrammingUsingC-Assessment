@@ -31,7 +31,7 @@ namespace ProblemThree_CompleteSolution_BL
             for (int i = 0; i < 20; i++)
             {
 
-                itemobj[0] = new oitems(1, 70");
+                itemobj[0] = new oitems(1, 70);
                 itemobj[1] = new oitems(2, 100);
                 
 
